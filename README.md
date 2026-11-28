@@ -1,2 +1,2 @@
 # Draugr
-Online app
+Online AI App
